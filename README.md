@@ -1,2 +1,3 @@
 # LLASDecrypt
-A simple C++ program that decrypts resources files in a game called Love Live! School idol festival All Stars!
+C++ based console program that decrypt LL!SIFAS files.
+Current using (SQLite3)[https://www.sqlite.org/index.html] to automatically grab the decryption requirements.
